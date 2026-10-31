@@ -1,0 +1,283 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-10-28T12:39:34Z",
+    "timestamp_areas_base": "2026-10-28T07:13:06Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 283353586,
+  "center": {
+    "lat": 52.0487174,
+    "lon": 15.0973213
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:city:simc": "0988460",
+    "addr:housenumber": "25",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "addr:street:sym_ul": "06114",
+    "building": "commercial",
+    "min_age": "2",
+    "source:addr": "krosnoodrzanskie.e-mapa.net",
+    "url": "https://fotopolska.eu/55513,obiekt.html?map_z=19"
+  }
+},
+{
+  "type": "way",
+  "id": 283402637,
+  "center": {
+    "lat": 52.0472123,
+    "lon": 15.0959287
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:housenumber": "54",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "building": "residential",
+    "building:levels": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 283402638,
+  "center": {
+    "lat": 52.0471742,
+    "lon": 15.0956675
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:housenumber": "54A",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "building": "residential",
+    "building:levels": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 283402641,
+  "center": {
+    "lat": 52.0469203,
+    "lon": 15.0958567
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:housenumber": "56",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "building": "residential",
+    "building:levels": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 283402643,
+  "center": {
+    "lat": 52.0468903,
+    "lon": 15.0961516
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:housenumber": "47",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "building": "residential",
+    "building:levels": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 283402644,
+  "center": {
+    "lat": 52.0469064,
+    "lon": 15.0963315
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:housenumber": "47A",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "building": "residential",
+    "building:levels": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 283402646,
+  "center": {
+    "lat": 52.0465526,
+    "lon": 15.0962577
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:housenumber": "49",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "building": "residential"
+  }
+},
+{
+  "type": "way",
+  "id": 283402650,
+  "center": {
+    "lat": 52.0462421,
+    "lon": 15.0960148
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:city:simc": "0988460",
+    "addr:housenumber": "64",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "addr:street:sym_ul": "06114",
+    "building": "residential",
+    "building:levels": "1",
+    "source:addr": "krosnoodrzanskie.e-mapa.net"
+  }
+},
+{
+  "type": "way",
+  "id": 283402654,
+  "center": {
+    "lat": 52.0460734,
+    "lon": 15.0956701
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:housenumber": "66",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "building": "residential",
+    "building:levels": "1"
+  }
+},
+{
+  "type": "way",
+  "id": 283402656,
+  "center": {
+    "lat": 52.0457928,
+    "lon": 15.0960007
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:city:simc": "0988460",
+    "addr:housenumber": "70A",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "addr:street:sym_ul": "06114",
+    "building": "house",
+    "source:addr": "krosnoodrzanskie.e-mapa.net"
+  }
+},
+{
+  "type": "way",
+  "id": 283405956,
+  "center": {
+    "lat": 52.0456962,
+    "lon": 15.0965326
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:housenumber": "61",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "building": "house",
+    "building:levels": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 283405957,
+  "center": {
+    "lat": 52.0455980,
+    "lon": 15.0965699
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:housenumber": "63",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "building": "house",
+    "building:levels": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 283405965,
+  "center": {
+    "lat": 52.0450195,
+    "lon": 15.0969112
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:housenumber": "73",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "building": "residential",
+    "building:levels": "2"
+  }
+},
+{
+  "type": "way",
+  "id": 553248483,
+  "center": {
+    "lat": 52.0480689,
+    "lon": 15.0969591
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:housenumber": "29",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "building": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 553248484,
+  "center": {
+    "lat": 52.0457107,
+    "lon": 15.0960200
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:city:simc": "0988460",
+    "addr:housenumber": "70",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "addr:street:sym_ul": "06114",
+    "building": "house",
+    "building:levels": "2",
+    "source:addr": "krosnoodrzanskie.e-mapa.net"
+  }
+},
+{
+  "type": "way",
+  "id": 769898902,
+  "center": {
+    "lat": 52.0484671,
+    "lon": 15.0973042
+  },
+  "tags": {
+    "addr:city": "Krosno Odrzańskie",
+    "addr:housenumber": "27",
+    "addr:postcode": "66-600",
+    "addr:street": "Grobla",
+    "building": "yes",
+    "check_date": "2026-05-05",
+    "description": "https://polska-org.pl/6631182,Krosno_Odrzanskie,Hotel_ODRA.html",
+    "name": "Odra",
+    "tourism": "hotel",
+    "url": "https://fotopolska.eu/55514,obiekt.html?map_z=19"
+  }
+}
+
+  ]
+}

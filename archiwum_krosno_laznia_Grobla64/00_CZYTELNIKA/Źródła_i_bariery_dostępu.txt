@@ -1,0 +1,48 @@
+ŹRÓDŁA, ADRESY I BARIERY DOSTĘPU
+================================
+
+GŁÓWNE ŹRÓDŁO ZDJĘCIA
+  LAV NRW, Abt. Rheinland, RW 0229, Nr. 46002 — „Crossen an der Oder (Krosno Odrzańskie)"
+  Rejestr:      https://www.archivportal-d.de/item/RA6A7DCXRLNNV6DKDG4RVNXAOKEHSSXT
+  METS:         https://www.landesarchiv-nrw.de/digitalisate/Abt_Rheinland/RW_0229/~460/46002/mets.xml
+  Oryginał:     https://www.landesarchiv-nrw.de/iiif/data02/Abt_Rheinland/RW_0229/~460/46002/LAV_NRW_R_RW_0229_46002.jp2/full/full/0/default.jpg
+  DFG-Viewer:   https://dfg-viewer.de/show/?tx_dlf%5Bid%5D=https://www.landesarchiv-nrw.de/digitalisate/Abt_Rheinland/RW_0229/~460/46002/mets.xml
+  Archive in NRW: https://www.archive.nrw.de/archivsuche?link=VERZEICHUNGSEINHEIT-Vz_2a159c7d-10ec-4e98-a1c7-23fef88fcf91
+  Uwaga: nadruk „Landesarchiv NRW 04/2025" oznacza miesiąc i rok digitalizacji, nie datę zdjęcia.
+
+POLSKA-ORG.PL — otwarty CDN obrazów (HTML za Cloudflare)
+  Wzór: https://polska-org.pl/foto/{id//1000}/{slug}_{id}.jpg   (slug dowolny, liczy się id)
+  Galerie: ul. Grobla (4672617, 11902926) · Kanał/przystań rybacka (6947893, 12282086,
+  5268195, 8604230, 10683921) · Kładka (10860181, 7148257) · Ratusz (7967280, 7148257,
+  6557325, 6960624, 4330337) · Fontanna (6959534, 4333812) · Synagoga (6947865, 6949642,
+  6947876, 7116339) · Szpital św. Jerzego (10694058) · Królewski Sąd Rejonowy (6217915,
+  11609356) · Dom nr 2 i nr 26 ul. Nadodrzańska (7385715, 8338332, 8338688, 11084584) ·
+  Zdjęcia lotnicze (4535823, 6504711, 7433072, 7937099, 5120441, 12809424)
+
+NASZEMIASTO.PL — otwarty CDN obrazów (HTML za Cloudflare)
+  Wzór: https://d-art.ppstatic.pl/kadry/k/r/{2 zn}/{2 zn}/{hash}_o_{size}.jpg
+  Wskazana w adnotacji „Bemerkungen" rekordu LAV: galeria c7-7923039, zdjęcie 56732915
+
+WIKIMEDIA COMMONS
+  https://commons.wikimedia.org/wiki/Category:Postcards_of_Krosno_Odrza%C5%84skie
+  „Crossen a. d. Oder — Stadtgraben" · „Na przystani Ruder-Club Crossen a.O. 1913" ·
+  „Siedziba Cüstriner Ruder-Club" · „Crossen a. d. Oder — Brückenstraße / Lorenzsteg /
+  Gebäudeansichten / Marktplatz / Steinstraße mit Marienkirche / Stadtansicht ..." (Zeno Ansichtskarten)
+
+KSIĄŻKI I MONOGRAFIE
+  Halicka 2005 (PL): https://beatahalicka.pl/wp-content/uploads/2019/04/Beata_Halicka_Krosno_Odrzanskie.pdf
+  Halicka 2005 (DE): https://beatahalicka.pl/wp-content/uploads/2019/04/Beata_Halicka_Crossen_an_der_Oder.pdf
+  „Die Kunstdenkmäler des Kreises Crossen" 1921: https://archive.org/details/dbc.wroc.pl.004991
+  BIP — Uwarunkowania: https://bip.krosnoodrzanskie.pl/system/obj/5091_T_I_Uwarunkowania_tekst.pdf
+  BIP — Program opieki: https://bip.krosnoodrzanskie.pl/system/obj/11941_XIX_175_20_program_zabytki.pdf
+  „Städtebuch Historisches Ostbrandenburg", Crossen: https://www.uni-muenster.de/Staedtegeschichte/Forschung/staedtebuchhistorischesostbrandenburg/crossen.html
+  Messtischblatt 3956: http://igrek.amzp.pl/result.php?cmd=id&god=3956&cat=tk25
+
+BARIERY DOSTĘPU (nie obchodzone)
+  archive.nrw.de, deutsche-digitale-bibliothek.de — Anubis (proof-of-work)
+  naszemiasto.pl, polska-org.pl — Cloudflare na warstwie HTML (obejście przez CDN obrazów)
+  szukajwarchiwach.gov.pl — Incapsula
+  uni-muenster.de — 403 dla pobrań automatycznych
+  mpzp.igeomap.pl — timeout przy dużym PDF-ie
+  esri World Imagery — brak detalu dla tej części Polski powyżej z=16
+  Wikimedia Commons — agresywne limitowanie pobrań (wymagane wielosekundowe odstępy)

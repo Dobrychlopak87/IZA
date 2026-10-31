@@ -1,0 +1,11 @@
+WYPISY Z INDEKSU KSIĄŻEK ADRESOWYCH CROSSEN
+
+1913
+Sämisch, Ernst | Bademeister | Stadtgraben | Städtische Flußbadeanstalt
+Sämisch, Ernst | Masseur und Bademeister | Boberstr. 36
+
+1938
+Heidenreich, Alfred | Badeanstalt | Grabenstraße | [bez numeru domu]
+
+Uwaga: indeks adresowy podaje dla Heidenreicha tylko ulicę, nie numer parceli. Wspólny adres łaźni z budynkiem przy Grobla 64 (dz. 61/6) nie został dotąd udowodniony w pierwotnej księdze adresowej ani w aktach budowlanych.
+Źródło robocze indeksu: `/tmp/bgg_1913_1938_index.json` i `/tmp/graben_1913_1938_hits.txt`; portal: BGG Roter Adler / indeks książek adresowych Crossen.

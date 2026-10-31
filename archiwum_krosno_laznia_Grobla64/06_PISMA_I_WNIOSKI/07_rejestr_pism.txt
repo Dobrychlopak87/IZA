@@ -1,0 +1,53 @@
+REJESTR PISM I WNIOSKÓW - gotowe do wysłania
+===========================================
+
+01_LAV_NRW_zamowienie_kliszy_7482_7485_7486_DE.txt
+    Adresat: Landesarchiv NRW, Abt. Rheinland
+    Cel: reprografia trzech klisz serii AKI dla Crossen z 1930 r.
+         (7482, 7485, 7486) + informacja o dacie nalotu dla 46002
+    Priorytet: WYSOKI - jedyne brakujące ujęcia z tego samego nalotu
+    Status: do weryfikacji przez użytkownika (dane kontaktowe)
+
+02_Stiftung_Brandenburg_ksiazka_adresowa_DE.txt
+    Adresat: Stiftung Brandenburg, Parkallee 14, 15517 Fürstenwalde
+    Cel: wgląd w "Adreßbuch" 1913 i "Einwohnerbuch" 1926 dla ul. Dammstraße
+         (Grobla) w poszukiwaniu numeru posesji i właściciela łaźni
+    Priorytet: WYSOKI - jedyna droga do numeru posesji i nazwiska
+    Status: do weryfikacji przez użytkownika
+
+03_AP_Zielona_Gora_akta_budowlane_PL.txt
+    Adresat: Archiwum Państwowe w Zielonej Górze, Oddział w Krośnie Odrzańskim
+    Cel: akta budowlane łaźni (rzuty, piwnica) + księgi wieczyste sądu
+         grodzkiego w Crossen dla nieruchomości nr 61
+    Priorytet: WYSOKI - jedyne znane źródło rysunków wnętrza i piwnicy
+    Status: do weryfikacji przez użytkownika
+
+04_WUOZ_Zielona_Gora_studium_konserwatorskie_PL.txt
+    Adresat: Wojewódzki Urząd Ochrony Zabytków w Zielonej Górze
+    Cel: karta adresowa obiektu Grobla 61-63/64 w "Studium konserwatorskim
+         rewitalizacji Starego Miasta" (Nekanda-Trepka i in., Szczecin 2011)
+    Priorytet: WYSOKI - najbardziej prawdopodobne źródło zdjęć wnętrza
+    Status: do weryfikacji przez użytkownika
+
+05_LWKZ_karta_adresowa_PL.txt
+    Adresat: Lubuski Wojewódzki Konserwator Zabytków
+    Cel: karta adresowa pozycji 172 "Grobla 61-63" z gminnej ewidencji
+         zabytków (wrzesień 2010) wraz z dokumentacją fotograficzną
+    Priorytet: ŚREDNI - opis i zdjęcia stanu zachowanego
+    Status: do weryfikacji przez użytkownika
+
+06_Sigmaringen_Aufmaesse_DE.txt
+    Adresat: Landesarchiv Sigmaringen
+    Cel: sprawdzenie i reprodukcja kopii architektonicznych (Aufmaße)
+         N 1/78 T 1 Nr. 195 i 196 - rzadka dokumentacja zabytkowa
+    Priorytet: ŚREDNI
+    Status: do weryfikacji przez użytkownika
+
+Uwagi
+-----
+- Żadne pismo nie zostało wysłane. Adresy, nazwiska i numery należy uzupełnić
+  i sprawdzić przed wysłaniem.
+- Koszty reprografii, skanów i udostępnień zwykle wymagają uprzedniego
+  zamówienia (min. 2 tygodnie) i kalkulacji.
+- Kolejność: 03 i 04 (dokumentacja wnętrza) → 02 (adres i właściciel) →
+  01 (uzupełnienie serii lotniczej) → 05, 06 (uzupełnienie).

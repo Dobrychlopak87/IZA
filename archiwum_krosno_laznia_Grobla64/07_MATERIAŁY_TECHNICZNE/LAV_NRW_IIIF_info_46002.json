@@ -1,0 +1,32 @@
+{
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "protocol" : "http://iiif.io/api/image",
+  "width" : 3380,
+  "height" : 2274,
+  "sizes" : [
+     { "width" : 211, "height" : 142 },
+     { "width" : 422, "height" : 284 },
+     { "width" : 845, "height" : 568 },
+     { "width" : 1690, "height" : 1137 }
+  ],
+  "tiles" : [
+     { "width" : 256, "height" : 256, "scaleFactors" : [ 1, 2, 4, 8, 16 ] }
+  ],
+  "id" : "https://www.landesarchiv-nrw.de/iiif/data02/Abt_Rheinland/RW_0229/~460/46002/LAV_NRW_R_RW_0229_46002.jp2",
+  "type": "ImageService3",
+  "profile" : "level2",
+  "maxWidth" : 5000,
+  "maxHeight" : 5000,
+  "extraQualities": ["color","gray","bitonal"],
+  "extraFormats": ["webp"],
+  "extraFeatures": ["regionByPct","sizeByForcedWh","sizeByWh","sizeAboveFull","sizeUpscaling","rotationBy90s","mirroring"],
+  "service": [
+    {
+      "@context": "http://iiif.io/api/annex/services/physdim/1/context.json",
+      "profile": "http://iiif.io/api/annex/services/physdim",
+      "physicalScale": 0.00423334,
+      "physicalUnits": "cm"
+    }
+  ]
+
+}
